@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 4.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
